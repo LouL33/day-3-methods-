@@ -1,0 +1,6 @@
+C:\Users\Lou75\tiy\week-2\week-2\day-3\day-3\bin\Debug\day-3.exe.config
+C:\Users\Lou75\tiy\week-2\week-2\day-3\day-3\bin\Debug\day-3.exe
+C:\Users\Lou75\tiy\week-2\week-2\day-3\day-3\bin\Debug\day-3.pdb
+C:\Users\Lou75\tiy\week-2\week-2\day-3\day-3\obj\Debug\day-3.csprojResolveAssemblyReference.cache
+C:\Users\Lou75\tiy\week-2\week-2\day-3\day-3\obj\Debug\day-3.exe
+C:\Users\Lou75\tiy\week-2\week-2\day-3\day-3\obj\Debug\day-3.pdb
